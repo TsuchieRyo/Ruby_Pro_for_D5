@@ -1,0 +1,1 @@
+oputs "Hello world!"
